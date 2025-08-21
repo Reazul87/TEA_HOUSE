@@ -1,4 +1,4 @@
 # TEA_HOUSE_DESIGN
 RESPONSIVE DESIGN OF TEA_HOUSE WITH TAILWINDCSS .
 
-LIVE : https://reazul87.github.io/TEA_HOUSE/
+LIVE : https://reazul87.github.io/TEA_HOUSE_DESIGN/
